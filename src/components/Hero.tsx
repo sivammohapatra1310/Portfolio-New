@@ -44,7 +44,7 @@ export default function Hero() {
             View My Work
           </a>
           <a
-            href="https://drive.google.com/file/d/1SPKS9yp4_knYN_Or7PFuH-iK0aWJnO-v/view?usp=sharing"
+            href="https://drive.google.com"
             class="border border-gray-600 text-white px-6 py-3 rounded-full hover:bg-gray-800"
           >
             Download Resume
