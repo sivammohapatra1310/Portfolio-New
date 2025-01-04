@@ -45,7 +45,7 @@ export default function Hero() {
           </a>
           <a
             href="https://drive.google.com"
-            class="border border-gray-600 text-white px-6 py-3 rounded-full hover:bg-gray-800"
+            className="border border-gray-600 text-white px-6 py-3 rounded-full hover:bg-gray-800"
           >
             Download Resume
           </a>
